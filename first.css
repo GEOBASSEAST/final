@@ -13,11 +13,11 @@
 .info{
     display: flex;
     align-items: center;
-    padding: 0px 412px 0px 0px;
+    padding: 0px 950px 0px 25px;
 }
 
 .info img {
-    padding: 0px 30px 0px 0px;
+    padding: 0px 25px 0px 0px;
 
 }
 
@@ -32,18 +32,18 @@
 }
 
 .contact h5{
-    padding: 0px 30px 0px 0px;
+    padding: 0px 25px 0px 0px;
     color: #355EFC;
 }
 
 .contact img{
-    padding: 0px 30px 0px 0px;
+    padding: 0px 20px 0px 0px;
 
 }
 
 .navig{
     display: flex;
-    padding: 0px 135px 0px 0px;
+    padding: 0px 450px 0px 0px;
 }
 
 .navig nav {
@@ -87,7 +87,7 @@ padding: 0px 10px 0px 0px;
 }
 
 .logo{
-    padding: 0px 64px 0px 121px;
+    padding: 0px 0px 0px 0px;
 }
 
 .one{
@@ -102,5 +102,5 @@ padding: 0px 10px 0px 0px;
 .finanza {
     display: flex;
     align-items: flex-start;
-    padding: 0px 320px 0px 41px;
+    padding: 0px 630px 0px 0px;
 }
