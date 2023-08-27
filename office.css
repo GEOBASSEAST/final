@@ -1,4 +1,9 @@
 .office div {
   display: flex;
   align-items: flex-end;
+}
+
+.services div {
+  display: flex;
+  align-items: flex-end;
 }/*# sourceMappingURL=office.css.map */
