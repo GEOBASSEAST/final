@@ -11,6 +11,10 @@
     
 }
 
+.our-office {
+    padding: 57px 0px 90px 0px;
+}
+
 .office {
     color: white;
 }
@@ -21,6 +25,7 @@
 
 .services {
     color: white;
+    padding: 55px 0px 89px 0px;
 }
 
 .services img {
@@ -29,6 +34,7 @@
 
 .quick-links {
     color: white;
+    padding: 59px 0px 85px 0px;
 }
 
 .quick-links img {
@@ -37,7 +43,7 @@
 
 
 .news {
-    padding: 0px 0px 35px 0px;
+    padding: 0px 0px 65px 0px;
 }
 
 .yourmail {
