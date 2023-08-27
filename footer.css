@@ -88,6 +88,13 @@
 }
 
 
+.services div {
+    display: flex;
+    align-items: flex-end;
+
+}
+
+
 
 
 .ql1 {
@@ -115,4 +122,5 @@
     align-items: flex-end;
 } 
 
-@import "./office.scss";
+@import url(office.scss);
+@import url(services.scss);
