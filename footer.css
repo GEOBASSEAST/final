@@ -1,0 +1,117 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #011A41;
+    justify-content: space-around;
+}
+
+.footer h3, h5, pre{
+    color: white;
+    
+}
+
+.office {
+    color: white;
+}
+
+.office img {
+    padding: 10px 10px 0px 0px;
+}
+
+.services {
+    color: white;
+}
+
+.services img {
+    padding: 10px 10px 0px 0px;
+}
+
+.quick-links {
+    color: white;
+}
+
+.quick-links img {
+    padding: 10px 10px 0px 0px;
+}
+
+
+.news {
+    padding: 0px 0px 35px 0px;
+}
+
+.yourmail {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+.ym {
+    display: flex;
+    background-color: white;
+    border-radius: 5px;
+    width: 250px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+.yourmail input {
+    border: none;
+}
+
+.but {
+    display: flex;
+    
+}
+
+.but button {
+    border: none;
+    border-radius: 5px;
+    background-color: #355EFC;
+    width: 73px;
+    height: 37px;
+    padding: 5px 5px 10px 10px;
+    justify-content: flex-end;
+    align-items: center;
+    color: white;
+}
+
+.logos img {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 15px 10px 0px 0px;
+}
+
+
+
+
+.ql1 {
+    display: flex;
+    align-items: flex-end;
+}
+
+.ql2 {
+    display: flex;
+    align-items: flex-end;
+}
+
+.ql3 {
+    display: flex;
+    align-items: flex-end;
+}
+
+.ql4 {
+    display: flex;
+    align-items: flex-end;
+}
+
+.ql5 {
+    display: flex;
+    align-items: flex-end;
+} 
+
