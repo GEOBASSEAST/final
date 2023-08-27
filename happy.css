@@ -1,0 +1,71 @@
+.happy {
+    display: flex;
+    align-items: center;
+    background-color: #355EFC;
+    height: 262px;
+    justify-content: space-around;
+}
+
+.hc {
+    display: flex;
+    flex-direction: column;
+    background-color: #355EFC;
+    align-items: center;
+    width: 291px ;
+    height: 158 ;
+}
+
+.hc img, h1, p {
+    align-items: center;
+    color: white;
+    justify-content: center;
+}
+
+.pc {
+    display: flex;
+    flex-direction: column;
+    background-color: #355EFC;
+    align-items: center;
+    width: 291px ;
+    height: 158 ;
+}
+
+.pc img, h1, p {
+    align-items: center;
+    color: white;
+    justify-content: center;
+}
+
+
+.ds {
+    display: flex;
+    flex-direction: column;
+    background-color: #355EFC;
+    align-items: center;
+    width: 291px ;
+    height: 158 ;
+}
+
+
+.ds img, h1, p {
+    align-items: center;
+    color: white;
+    justify-content: center;
+}
+
+.staff {
+    display: flex;
+    flex-direction: column;
+    background-color: #355EFC;
+    align-items: center;
+    width: 291px ;
+    height: 158 ;
+}
+
+
+
+.staff img, h1, p {
+    align-items: center;
+    color: white;
+    justify-content: center;
+}
