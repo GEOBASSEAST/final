@@ -25,6 +25,11 @@
     font-family: poppins;
 }
 
+.hc h1 {
+    font-size: 56px;
+    font-weight: 700;
+}
+
 .pc {
     display: flex;
     flex-direction: column;
@@ -42,6 +47,11 @@
 
 .pc h1, p {
     font-family: poppins;
+}
+
+.pc h1 {
+    font-size: 56px;
+    font-weight: 700;
 }
 
 
@@ -65,6 +75,11 @@
     font-family: poppins;
 }
 
+.ds h1 {
+    font-size: 56px;
+    font-weight: 700;
+}
+
 .staff {
     display: flex;
     flex-direction: column;
@@ -84,4 +99,9 @@
 
 .staff h1, p {
     font-family: poppins;
+}
+
+.staff h1 {
+    font-size: 56px;
+    font-weight: 700;
 }
