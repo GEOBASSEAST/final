@@ -23,8 +23,15 @@
     align-items: flex-start;
 }
 
-.hidd1 h1, pre {
+.hidd1 h1 {
     color: black;
+    font-family: jost;
+
+}
+
+.hidd1 pre {
+    color: black;
+    font-family: poppins;
 
 }
 
@@ -39,8 +46,15 @@
     align-items: flex-start;
 }
 
-.hidd2 h1, pre {
+.hidd2 pre {
     color: black;
+    font-family: poppins;
+
+}
+
+.hidd2 h1 {
+    color: black;
+    font-family: jost;
 
 }
 
@@ -55,8 +69,15 @@
     align-items: flex-start;
 }
 
-.hidd3 h1, pre {
+.hidd3 h1 {
     color: black;
+    font-family: jost;
+
+}
+
+.hidd3 pre {
+    color: black;
+    font-family: poppins;
 
 }
 
