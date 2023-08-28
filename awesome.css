@@ -23,6 +23,11 @@
 
 }
 
+.b button:hover {
+    background-color: #355EFC;
+    color: white;
+}
+
 .af h1 {
     display: flex;
     align-items: center;

@@ -89,6 +89,8 @@
 
 .yourmail input {
     border: none;
+    height: 40px;
+    font-family: opensans;
 }
 
 .but {
@@ -97,14 +99,19 @@
 }
 
 .but button {
-    border: none;
+    border: 1px solid #355EFC;
     border-radius: 5px;
-    background-color: #355EFC;
+    background-color: white;
     width: 73px;
     height: 37px;
     padding: 5px 5px 10px 10px;
     justify-content: flex-end;
     align-items: center;
+    color: #355EFC;
+}
+
+.but button:hover {
+    background-color: #355EFC;
     color: white;
 }
 
