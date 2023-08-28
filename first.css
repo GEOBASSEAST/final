@@ -13,7 +13,7 @@
 .info{
     display: flex;
     align-items: center;
-    padding: 0px 950px 0px 25px;
+    padding: 0px 835px 0px 25px;
 }
 
 .info img {
@@ -106,5 +106,5 @@ padding: 0px 10px 0px 0px;
 .finanza {
     display: flex;
     align-items: flex-start;
-    padding: 0px 630px 0px 0px;
+    padding: 0px 535px 0px 0px;
 }
