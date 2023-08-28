@@ -40,13 +40,18 @@
 
             .request {
                 display: flex;
-                background: url(logo/contact-form-backend.png) no-repeat center center;
+                background: url(logo/contact-form-backend.png) no-repeat center;
                 justify-content: center;
+                height: 550px;
             }
 
             .req {
                 display: flex;
                 flex-direction: column;
+                border: 1px solid #909DE2;
+                border-radius: 10px;
+                background: #fff;
+                padding: 50px;
             }
 
             .getin {
@@ -88,6 +93,51 @@
             .cb1 {
                 display: flex;
                 justify-content: center;
+            }
+
+            .msg {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+            .msg textarea {
+                display: flex;
+                justify-content: center;
+                height: 133px;
+                padding: 15px 1px 15px 10px;
+                align-items: center;
+                gap: 10px;
+                align-self: stretch;
+                border-radius: 5px;
+                border: 1px solid #909DE2;
+                font-family: opensans;
+            }
+
+            .btnn {
+                display: flex;
+                justify-content: center;
+            }
+
+            .btnn button {
+                border: 1px solid #CAD2FC;
+                color: #355EFC;
+                border-radius: 11px;
+                align-items: center;
+                justify-content: center;
+                background-color: white;
+                width: 730px;
+                height: 42px;
+                padding: 10px 15px;
+                font-family: opensans;
+                font-size: 16px;
+                box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.36);
+                border: 1px solid #CAD2FC;
+            }
+
+            .btnn button:hover {
+                background-color: #355EFC;
+                color: white;
             }
 
 
@@ -454,9 +504,11 @@ eos. Clita erat ipsum et lorem et sit, sed stet
                     <div class="getin">
                         <button class="active">Gey In Touch</button>
                     </div>
+                    <br/>
                     <div class="callback">
                         <h1>Request A Call-Back</h1>
                     </div>
+                    <br/>
                     <div class="cb">
                         <div class="yname">
                             <input style="border-radius: 5px;" size="20" type="text" placeholder="Your Name"/>
@@ -465,13 +517,24 @@ eos. Clita erat ipsum et lorem et sit, sed stet
                             <input style="border-radius: 5px;" size="20" type="text" placeholder="Your Mail"/>
                         </div>
                     </div>
+                    <br/>
                     <div class="cb1">
                         <div class="phone">
                             <input style="border-radius: 5px;" size="20" type="text" placeholder="Your Phone"/>
                         </div>
+                        <br/>
                         <div class="subject">
                             <input style="border-radius: 5px;" size="20" type="text" placeholder="Your Subject"/>
                         </div>
+                    </div>
+                    <br/>
+
+                    <div class="msg">
+                        <textarea name="MESSAGE" id="" cols="100" rows="10">Message</textarea>
+                    </div>
+                    <br/>
+                    <div class="btnn">
+                        <button class="active">Submit Now</button>
                     </div>
 
                 </div>
