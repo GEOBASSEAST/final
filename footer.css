@@ -15,17 +15,28 @@
     padding: 57px 0px 90px 0px;
 }
 
+.our-office h3 {
+    font-family: jost;
+}
+
 .office {
     color: white;
+    font-family: jost;
 }
 
 .office img {
     padding: 10px 10px 0px 0px;
 }
 
+
 .services {
     color: white;
     padding: 55px 0px 89px 0px;
+    font-family: poppins;
+}
+
+.services h3 {
+    font-family: jost;
 }
 
 .services img {
@@ -35,10 +46,15 @@
 .quick-links {
     color: white;
     padding: 59px 0px 85px 0px;
+    font-family: poppins;
 }
 
 .quick-links img {
     padding: 10px 10px 0px 0px;
+}
+
+.quick-links h3 {
+    font-family: jost;
 }
 
 
@@ -48,6 +64,10 @@
 
 .news pre {
     color: white;
+}
+
+.news h3, pre {
+    font-family: jost;
 }
 
 .yourmail {
