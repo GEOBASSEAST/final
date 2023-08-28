@@ -1,0 +1,141 @@
+.our-services {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+
+.m1 {
+    display: flex;
+    width: 400px;
+    height: 39px;
+    align-items: center;
+    border: 1px solid #355EFC;
+    border-radius: 5px;
+    padding: 30px;
+}
+
+
+.m2 {
+    display: flex;
+    width: 400px;
+    height: 39px;
+    align-items: center;
+    border: 1px solid #355EFC;
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.m3 {
+    display: flex;
+    width: 400px;
+    height: 39px;
+    align-items: center;
+    border: 1px solid #355EFC;
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.m4 {
+    display: flex;
+    width: 400px;
+    height: 39px;
+    align-items: center;
+    border: 1px solid #355EFC;
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.m1 h2 {
+    font-family: opensans;
+}
+
+.m2 h2 {
+    font-family: opensans;
+}
+
+.m3 h2 {
+    font-family: opensans;
+}
+
+.m4 h2 {
+    font-family: opensans;
+}
+
+.m1 img {
+    padding: 0px 10px 0px 0px;
+}
+
+.m2 img {
+    padding: 0px 10px 0px 0px;
+}
+
+.m3 img {
+    padding: 0px 10px 0px 0px;
+}
+
+.m4 img {
+    padding: 0px 10px 0px 0px;
+}
+
+.imggg {
+    padding: 20px;
+}
+
+
+.experience {
+display: flex;
+flex-direction: column;
+}
+
+.exp1 pre {
+font-weight: 700;
+font-size: xx-large;
+font-family: jost;
+color: black;
+}
+
+.exp2 {
+display: flex;
+padding: 12px 0px 0px 0px;
+
+
+}
+
+.exp2 pre {
+font-family: poppins;
+font-weight: 100;
+color: black;
+}
+
+.exp3 {
+display: flex;
+flex-direction: column;
+
+}
+
+.exp4 button {
+padding: 10px 25px;
+border-radius: 10px;
+border: none;
+background-color: #355EFC;
+color: white;
+
+}
+
+.e1 {
+display: flex;
+align-items: center;
+padding: 10px 0px;
+}
+
+.e1 p {
+color: black;
+font-family: poppins;
+}
