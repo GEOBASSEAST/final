@@ -1,6 +1,6 @@
 .request {
     display: flex;
-    background: url(logo/contact-form-backend.png) no-repeat;
+    background: url(logo/backgr.png) no-repeat;
     justify-content: center;
     height: 550px;
 }
