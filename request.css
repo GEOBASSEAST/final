@@ -1,8 +1,19 @@
 .request {
     display: flex;
-    background: url(logo/contact-form-backend.png) no-repeat center;
+    background: url(logo/contact-form-backend.png) no-repeat;
     justify-content: center;
     height: 550px;
+}
+
+
+.bcgr {
+    display: flex;
+    height: 170px;
+}
+
+
+.bcgr {
+    background: url(logo/contact-form-backend.png) no-repeat center;
 }
 
 .req {
