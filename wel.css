@@ -1,11 +1,14 @@
 .wel {
     display: flex;
+    align-items: center;
 }
 
 .welcometo {
     display: flex;
     flex-direction: row;
     align-items: center;
+    width: 333px;
+    height: 300px;
 }
 
 .wtf {
@@ -80,4 +83,14 @@
 .left {
     display: flex;
     justify-content: center;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+}
+
+.right img {
+    width: 76px;
+    height: 62px;
 }

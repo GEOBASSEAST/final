@@ -2,6 +2,8 @@
     display: flex;
     flex-direction: column;
     align-items: stretch;
+    width: 1240px;
+    height: 6754px;
 }
 
 
@@ -14,7 +16,7 @@
 .info{
     display: flex;
     align-items: center;
-    padding: 0px 835px 0px 25px;
+    padding: 0px 180px 0px 25px;
 }
 
 .info img {
@@ -47,7 +49,7 @@
 
 .navig{
     display: flex;
-    padding: 0px 450px 0px 0px;
+    padding: 0px 150px 0px 0px;
 }
 
 .navig nav {
@@ -108,5 +110,5 @@ padding: 0px 10px 0px 0px;
 .finanza {
     display: flex;
     align-items: flex-start;
-    padding: 0px 535px 0px 0px;
+    padding: 0px 180px 0px 0px;
 }
