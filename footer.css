@@ -31,7 +31,7 @@
 
 .services {
     color: white;
-    padding: 55px 0px 89px 0px;
+    padding: 45px 0px 89px 0px;
     font-family: poppins;
 }
 
@@ -45,8 +45,9 @@
 
 .quick-links {
     color: white;
-    padding: 59px 0px 85px 0px;
+    padding: 40px 0px 85px 0px;
     font-family: poppins;
+    gap: 20px;
 }
 
 .quick-links img {
