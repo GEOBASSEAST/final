@@ -47,6 +47,11 @@
     background-color: #DEE2FB;
 }
 
+.wtfbut button:hover {
+    background-color: #355EFC;
+    color: white;
+}
+
 
 .ourgoal pre {
     color: #011A41;
@@ -58,8 +63,8 @@
 }
 
 .expmore button {
-    border: 1px solid #CAD2FC;
-    color: white;
+    border: 1px solid white;
+    color: #355EFC;
     border-radius: 11px;
     align-items: flex-start;
     justify-content: center;
@@ -69,7 +74,12 @@
     padding: 10px 15px;
     font-family: opensans;
     font-size: 16px;
+    background-color: #DEE2FB;
+}
+
+.expmore button:hover {
     background-color: #355EFC;
+    color: white;
 }
 
 .backgrn {
