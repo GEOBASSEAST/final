@@ -15,7 +15,7 @@
 .info{
     display: flex;
     align-items: center;
-    padding: 0px 600px 0px 25px;
+    padding: 0px 650px 0px 25px;
 }
 
 .info img {
@@ -115,5 +115,5 @@ cursor: pointer;
 .finanza {
     display: flex;
     align-items: flex-start;
-    padding: 0px 600px 0px 0px;
+    padding: 0px 570px 0px 0px;
 }
