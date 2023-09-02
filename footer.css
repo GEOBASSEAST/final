@@ -169,5 +169,27 @@
     align-items: flex-end;
 } 
 
+.twitterlogo img {
+    width: 50px;
+    height: 57px;
+    color: #011A41;
+}
+
+.youtubelogo img {
+    width: 50px;
+    height: 55px;
+}
+
+
+.faceboocklogo img {
+    background-color: #011A41;
+}
+
+
+.instagramlogo img {
+    width: 53px;
+    height: 58px;
+}
+
 @import url(office.scss);
 @import url(services.scss);

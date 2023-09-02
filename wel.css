@@ -96,6 +96,7 @@
 .left {
     display: flex;
     justify-content: center;
+    padding: 0px 0px 55px 0px;
 }
 
 .right {
