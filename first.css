@@ -89,13 +89,17 @@
 
 }
 
-.logo img{
-padding: 0px 10px 0px 0px;
-
+.logo div {
+padding: 10px 17px 10px 17px;
+border-radius: 50%;
+background-color: #DEE2FB;
+cursor: pointer;
 }
 
 .logo{
+    display: flex;
     padding: 0px 0px 0px 0px;
+    gap: 10px;
 }
 
 .one{
