@@ -1,0 +1,14 @@
+.modal {
+    border-radius: 5px;
+    border: 1px solid #355EFC;
+    box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.36);
+    height: 400px;
+    width: 600px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.modal::backdrop {
+    background: rgb(0 0 0 / .4);
+}
