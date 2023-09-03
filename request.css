@@ -101,7 +101,7 @@
     display: flex;
     justify-content: center;
     height: 133px;
-    padding: 15px 0px 15px 0px;
+    padding: 15px 10px 15px 10px;
     align-items: center;
     gap: 10px;
     align-self: stretch;
@@ -142,6 +142,7 @@
     height: 50px;
     width: 298px;
     font-family: opensans;
+    padding: 10px;
 }
 
 .ymail input {
@@ -150,6 +151,7 @@
     height: 50px;
     width: 298px;
     font-family: opensans;
+    padding: 10px;
 }
 
 
@@ -159,6 +161,7 @@
     height: 50px;
     width: 298px;
     font-family: opensans;
+    padding: 10px;
 }
 
 .subject input {
@@ -167,4 +170,5 @@
     height: 50px;
     width: 298px;
     font-family: opensans;
+    padding: 10px;
 }
