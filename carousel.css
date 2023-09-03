@@ -1,14 +1,21 @@
 .container {
-    width: 850px;
-    height: 620px;
-    margin: 10px 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
     
 
 }
 
 .carousel {
-    height: 620px;
-    width: 850px;
+    padding-left: 10px;
+    padding-right: 10px;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    /*height: 620px;
+    width: 850px;*/
     overflow: hidden;
     position: relative;
 }

@@ -1,6 +1,9 @@
 .request {
     display: flex;
     flex-wrap: nowrap;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
 
 
 }
@@ -8,12 +11,10 @@
 
 .bcgr {
     display: flex;
-    height: 170px;
-}
-
-
-.bcgr {
+    height: 100px;
     background: url(logo/contact-form-backend.png) repeat center center;
+    justify-content: center;
+    padding: 0px 0px 0px 10px;
     
 }
 
@@ -21,16 +22,15 @@
     display: flex;
     background: url(logo/backgr.png) no-repeat;
     justify-content: center;
-    height: 550px;
-    width: 600px; 
+   width: 151px;
 }
 
 .bg2 {
     display: flex;
     background: url(logo/backgr.png) no-repeat;
     justify-content: center;
-    height: 550px;
-    width: 600px;
+    width: 151px;
+   
     
 }
 
@@ -40,8 +40,12 @@
     border: 1px solid #909DE2;
     border-radius: 10px;
     background: #fff;
-    padding: 50px;
     gap: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
     
 }
 

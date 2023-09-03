@@ -2,12 +2,21 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .menu {
     display: flex;
     flex-direction: column;
-    padding: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
     gap: 35px;
 }
 
@@ -51,6 +60,7 @@
     border: 1px solid #355EFC;
     border-radius: 5px;
     padding: 30px;
+    
 }
 
 .m1 h2 {
@@ -108,7 +118,11 @@
 
 
 .imggg {
-    padding: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
@@ -116,8 +130,10 @@
 display: flex;
 flex-direction: column;
 gap: 7px;
-width: 415px;
-height: 410px;
+max-width: 960px;
+margin-left: auto;
+margin-right: auto;
+padding: 0px 0px 15px 0px;
 }
 
 .exp1 {

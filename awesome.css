@@ -2,7 +2,11 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .b button {
@@ -26,6 +30,14 @@
 .b button:hover {
     background-color: #355EFC;
     color: white;
+}
+
+.af {
+    padding-left: 10px;
+    padding-right: 10px;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .af h1 {

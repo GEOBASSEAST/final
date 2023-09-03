@@ -4,20 +4,29 @@
     flex-direction: row;
     justify-content: space-between;
     background-color: #000000;
+    height: 100px;
+    padding-left: 35px;
+    padding-right: 35px;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 20px;
 }
 
 .copy{
     display: flex;
     flex-direction: row;
-    padding: 25px 71px 25px 135px;
     font-family: opensans;
+    align-items: center;
+    justify-content: center;
 }
 
 .codex{
     display: flex;
     flex-direction: row;
-    padding: 25px 135px 25px 0px;
     font-family: opensans;
+    align-items: center;
+    justify-content: center;
 }
 
 .end a,p{
