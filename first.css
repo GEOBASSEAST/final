@@ -29,6 +29,7 @@
     font-family: opensans;
 }
 
+
 .contact{
     display: flex;
     align-items: center;
@@ -53,11 +54,6 @@
     gap: 61px;
 }
 
-.navig nav {
-    display: flex;
-    align-items: center;
-    text-align: center;
-}
 
 .navig img {
     align-items: center;
