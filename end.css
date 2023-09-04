@@ -2,7 +2,7 @@
 .end{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
     background-color: #000000;
     height: 100px;
     gap: 20px;
