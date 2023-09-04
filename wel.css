@@ -16,6 +16,8 @@
     flex-direction: column;
     gap: 25px;
     justify-content: space-around;
+    height: 500px;
+    width: 450px;
     
 }
 
@@ -30,6 +32,7 @@
     width: 731x;
     height: 330px;
 }
+
 
 .expmore {
     display: flex;
@@ -59,12 +62,14 @@
 
 
 .ourgoal pre {
+    display: flex;
     color: #011A41;
     font-family: Opensans;
-    font-size: 80px;
+    font-size: 60px;
     font-style: normal;
     font-weight: 700;
     line-height: 96px;
+    align-items: center;
 }
 
 .expmore button {
@@ -90,6 +95,11 @@
 .backgrn {
     display: flex;
     flex-direction: row-reverse;
+    max-width: 960px;
+                margin-left: auto;
+                margin-right: auto;
+                padding-left: 10px;
+                padding-right: 10px;
 }
 
 .left {
