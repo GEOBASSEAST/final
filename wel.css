@@ -1,22 +1,14 @@
 .wel {
     display: flex;
     align-items: center;
-    padding-left: 10px;
-    padding-right: 10px;
-    max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
+ 
 }
 
 .welcometo {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    padding-left: 10px;
-    padding-right: 10px;
-    max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
+    ;
 }
 
 .wtf {
@@ -24,11 +16,7 @@
     flex-direction: column;
     gap: 25px;
     justify-content: space-around;
-    padding-left: 10px;
-    padding-right: 10px;
-    max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
+    
 }
 
 .wtfbut {
@@ -101,32 +89,19 @@
 
 .backgrn {
     display: flex;
-    padding-left: 10px;
-    padding-right: 10px;
-    max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
     flex-direction: row-reverse;
 }
 
 .left {
     display: flex;
     justify-content: center;
-    padding-left: 10px;
-    padding-right: 10px;
-    max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
+  ;
 }
 
 .right {
     display: flex;
     align-items: center;
-    padding-left: 10px;
-    padding-right: 10px;
-    max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
+
 }
 
 .right img {

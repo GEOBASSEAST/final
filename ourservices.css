@@ -2,21 +2,12 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-left: 10px;
-    padding-right: 10px;
-    max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
+
 }
 
 .menu {
     display: flex;
     flex-direction: column;
-    padding-left: 10px;
-    padding-right: 10px;
-    max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
     gap: 35px;
 }
 
@@ -117,22 +108,11 @@
 }
 
 
-.imggg {
-    padding-left: 10px;
-    padding-right: 10px;
-    max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 
 .experience {
 display: flex;
 flex-direction: column;
 gap: 7px;
-max-width: 960px;
-margin-left: auto;
-margin-right: auto;
 padding: 0px 0px 15px 0px;
 }
 

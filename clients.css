@@ -1,20 +1,12 @@
 .clients {
     display: flex;
     justify-content: center;
-    padding-left: 10px;
-    padding-right: 10px;
-    max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
+  
 }
 
 .imgcard {
     display: flex;
-    padding-left: 10px;
-    padding-right: 10px;
-    max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
+
 }
 
 .imgcard img {
@@ -27,11 +19,7 @@
 .left {
     display: flex;
     flex-direction: column;
-    padding-left: 10px;
-    padding-right: 10px;
-    max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
+ 
 }
 
 .topbut button {

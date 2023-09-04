@@ -8,21 +8,12 @@
 
 .head{
     display: flex;
-    padding-left: 10px;
-    padding-right: 10px;
-    max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .info{
     display: flex;
     align-items: center;
-    padding-left: 10px;
-    padding-right: 10px;
-    max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
+  
 }
 
 .info img {
@@ -40,11 +31,7 @@
 .contact{
     display: flex;
     align-items: center;
-    padding-left: 10px;
-    padding-right: 10px;
-    max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
+   
 }
 
 .contact h5{
@@ -85,11 +72,7 @@
     justify-content: space-evenly;
     background: url(logo/hero\ shape.png) no-repeat center center;
     background-size: cover;
-    padding-left: 10px;
-    padding-right: 10px;
-    max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
+   
 }
 
 
@@ -115,11 +98,6 @@ cursor: pointer;
 .logo{
     display: flex;
     gap: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
-    max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .one{
@@ -127,21 +105,9 @@ cursor: pointer;
     align-items: center;
     flex-direction: row;
     justify-content: space-between;
-    padding-left: 10px;
-    padding-right: 10px;
-    max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
-    
-    
 }
 
 .finanza {
     display: flex;
     align-items: flex-start;
-    padding-left: 10px;
-    padding-right: 10px;
-    max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
 }
