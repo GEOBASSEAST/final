@@ -70,8 +70,8 @@
     align-items: flex-end;
     text-align: center;
     justify-content: space-evenly;
-    background: url(logo/hero\ shape.png) no-repeat center center;
     background-size: cover;
+    max-width: 100%;
    
 }
 
