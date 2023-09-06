@@ -31,6 +31,8 @@
 
 
 .services {
+    display: flex;
+    flex-direction: column;
     color: white;
     padding: 45px 0px 89px 0px;
     font-family: poppins;
@@ -46,6 +48,8 @@
 }
 
 .quick-links {
+    display: flex;
+    flex-direction: column;
     color: white;
     padding: 40px 0px 85px 0px;
     font-family: poppins;

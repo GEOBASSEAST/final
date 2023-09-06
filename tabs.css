@@ -1,6 +1,7 @@
 .tabs {
                 display: flex;
                 flex-wrap: wrap;
+                width: 515px;
             }
 
             .tabs label {
