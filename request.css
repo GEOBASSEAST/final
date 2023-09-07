@@ -20,14 +20,16 @@
     display: flex;
     background: url(logo/backgr.png) no-repeat;
     justify-content: center;
-   width: 161px;
+   width: 620px;
+   height: 500px;
 }
 
 .bg2 {
     display: flex;
     background: url(logo/backgr.png) no-repeat;
     justify-content: center;
-    width: 161px;
+    width: 619px;
+    height: 500px;
    
     
 }
