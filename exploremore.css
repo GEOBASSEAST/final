@@ -1,3 +1,4 @@
+
 .modal {
     border-radius: 5px;
     border: 1px solid #355EFC;
@@ -10,4 +11,3 @@
 .modal::backdrop {
     background: rgb(0 0 0 / .4);
 }
-
