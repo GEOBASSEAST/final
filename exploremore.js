@@ -1,13 +1,13 @@
-            const modal = document.querySelector('#modal');
-            const openModal = document.querySelector('.open-button');
-            const closeModal = document.querySelector('.close-button');
+            const modl = document.querySelector('#modl');
+            const openModl = document.querySelector('.open');
+            const closeModl = document.querySelector('.close');
 
-            openModal.addEventListener('click', () => {
-                modal.showModal();
+            openModl.addEventListener('click', () => {
+                modl.showModal();
 
                 
             })
 
-            closeModal.addEventListener('click', () => {
-                modal.close();
+            closeModl.addEventListener('click', () => {
+                modl.close();
             })
