@@ -1,9 +1,9 @@
 .happy {
     display: flex;
     align-items: center;
-    background-color: #355EFC;
     height: 262px;
     justify-content: space-around;
+    background-color: #355EFC;
    
 }
 
@@ -105,4 +105,8 @@
 .staff h1 {
     font-size: 56px;
     font-weight: 700;
+}
+
+.happy h1 {
+    color: white;
 }

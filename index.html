@@ -2,7 +2,7 @@
 <html>
     <head>
 
-        <meta name="viewport" content="widt=device-width, initial-scale=1.0">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <link href="first.css" rel="stylesheet"/>
         <link rel="stylesheet" href="navig.css"/>
@@ -69,19 +69,108 @@
 
 
 
-                .navi {
-                    flex-direction: row;
+                .background {
+                    flex-direction: unset;
+                }
+
+                .client {
+                    flex-direction: column;
+                }
+
+                .hid {
+                    flex-direction: column;
+
                 }
 
 
-                .info {
+                .happy {
+                    flex-direction: column;
+                    background:none
+                }
+
+                .hidden{
+                    flex-direction: column;
+                }
+
+
+                .whychoosingus {
+                    flex-direction: column;
+                }
+
+                .awesome {
+                    flex-direction: column;
+                }
+
+                .our-services {
+                    flex-direction: column;
+                }
+
+                .menu div {
+                    height: 50px;
+                    width: 350px;
+                    padding: 10px 0px;
+
+                }
+
+                .bcgr {
                     flex-direction: row;
                 }
 
-                .contact {
+                .request {
+                    flex-direction: column;
+
+                }
+
+                .req {
+                    flex-direction: column;
+                }
+
+                .getin {
                     flex-direction: row;
+
+                }
+
+                .callback {
+                    flex-direction: row;
+                    font-size: x-small;
+                }
+
+                .cb {
+                    flex-direction: column;
+                    align-items: center;
+                    gap: 20px;
+                }
+
+                .cb1{
+                    flex-direction: column;
+                    align-items: center;
+                    gap: 20px;
+                }
+
+                .msg {
+                    flex-direction: column;
+                    
+                }
+
+                .msg textarea {
+                    width: 350px;
+                    height: 50px;
+                    
+                }
+
+                .btnn button {
+                    width: 200px;
+                    height: 50px;
+                }
+
+
+                .footer {
+                    flex-direction: column;
                 }
                 
+                .end {
+                    flex-direction: column;
+                }
 
 
             }
@@ -192,18 +281,16 @@
 
                 <div class="wrapper">
                 <div class="welcometo">
-                    <button class="open-button">Welcome To Finanza</button>
+                    <button class="open-button" onclick="getTodos()">Welcome To Finanza</button>
                     <dialog class="modal" id="modal">
                         <h2>1</h2>
-                        <h2>2</h2>
+                        <h3>2</h3>
                         <button class="close-button">close</button>
                       </dialog>
                     <h1>Your Financial</h1>
                     <h1>Status Is Our Goal</h1>
-                    <button class="open">Explore More</button>
+                    <button class="open" onclick="getUsers()">Explore More</button>
                     <dialog class="modl" id="modl">
-                        <h2>1</h2>
-                        <h2>2</h2>
                         <button class="close">close</button>
                       </dialog>
                 </div>
@@ -322,7 +409,7 @@ Clita erat ipsum et lorem et sit
 
 
             <div class="hid">
-                <div class="wrapper">
+                
             <div class="hidden">
             <div class="wrapper">
                 <div class="hidd1">
@@ -369,7 +456,7 @@ stet duo justo
                     </div>
                 </div>
             </div>
-            </div>
+            
         </div>
        
 
@@ -379,25 +466,25 @@ stet duo justo
 
             
             <div class="happy">
-                <div class="wrapper">
+                <!--<div class="wrapper">-->
                 <div class="hc">
                     <img src="logo/Vector (1).png" alt="">
                     <h1>1234</h1>
                     <p>Happy Clients</p>
                     <br/>
                     <img src="logo/Line 2.png" alt="">
+                <!--</div>-->
                 </div>
-                </div>
-                <div class="wrapper">
+                <!--<div class="wrapper">-->
                 <div class="pc">
                     <img src="logo/Vector.png" alt="">
                     <h1>1234</h1>
                     <p>Project Completed</p>
                     <br/>
                     <img src="logo/Line 2.png" alt="">
+                <!--</div>-->
                 </div>
-                </div>
-                <div class="wrapper">
+                <!--<div class="wrapper">-->
                 <div class="ds">
                     <img src="logo/Vector(4).png" alt="">
                     <h1>1234</h1>
@@ -405,8 +492,8 @@ stet duo justo
                     <br/>
                     <img src="logo/Line 2.png" alt="">
                 </div>
-                </div>
-                <div class="wrapper">
+                <!--</div>-->
+                <!--<div class="wrapper">-->
                 <div class="staff">
                     <img src="logo/Vector (2).png" alt="">
                     <h1>1234</h1>
@@ -414,7 +501,7 @@ stet duo justo
                     <br/>
                     <img src="logo/Line 2.png" alt="">
                 </div>
-                </div>
+                <!--</div>-->
             </div>
             
 
@@ -629,11 +716,9 @@ eos. Clita erat ipsum et lorem et sit, sed stet
 
 
 
-            <div class="wrapper">
+            
             <div class="request">
-                <div class="wrapper">
-                <div class="bg1"></div>
-                </div>
+                
                 <div class="wrapper">
                 <div class="req">
                     <div class="getin">
@@ -667,12 +752,9 @@ eos. Clita erat ipsum et lorem et sit, sed stet
                     </div>
                 </div>
                 </div>
-                <div class="wrapper">
-                <div class="bg2">
-                </div>
                 </div>
             </div>
-            </div>
+            
             
         
 

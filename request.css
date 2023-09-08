@@ -2,6 +2,9 @@
     display: flex;
     flex-wrap: nowrap;
     justify-content: center;
+    background: url(logo/bc.png) no-repeat content-box local;
+    
+    
 
 
 }
@@ -10,27 +13,9 @@
 .bcgr {
     display: flex;
     height: 100px;
-    background: url(logo/contact-form-backend.png) repeat center center;
+    background: url(logo/bc.png) repeat center center;
     justify-content: center;
     padding: 0px 0px 0px 10px;
-    
-}
-
-.bg1 {
-    display: flex;
-    background: url(logo/backgr.png) no-repeat;
-    justify-content: center;
-   width: 620px;
-   height: 500px;
-}
-
-.bg2 {
-    display: flex;
-    background: url(logo/backgr.png) no-repeat;
-    justify-content: center;
-    width: 619px;
-    height: 500px;
-   
     
 }
 
@@ -38,7 +23,7 @@
     display: flex;
     flex-direction: column;
     border: 1px solid #909DE2;
-    border-radius: 0px 0px 10px 10px;
+    border-radius: 10px;
     background: #fff;
     padding: 20px;
     gap: 20px;
