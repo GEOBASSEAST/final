@@ -1,15 +1,22 @@
 .wel {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
  
 }
 
 .welcometo {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
+    gap: 20px;
     
+}
+
+.welcometo h1 {
+    color: #011A41;
+    font-family: opensans;
+    font-size: 80px;
 }
 
 .wtf {
@@ -73,14 +80,14 @@
     align-items: center;
 }
 
-.expmore button {
+.welcometo button {
     border: 1px solid white;
     color: #355EFC;
     border-radius: 11px;
     align-items: flex-start;
     justify-content: center;
     background-color: white;
-    width: 170px;
+    width: 200px;
     height: 42px;
     padding: 10px 15px;
     font-family: opensans;
@@ -88,7 +95,7 @@
     background-color: #DEE2FB;
 }
 
-.expmore button:hover {
+.welcometo button:hover {
     background-color: #355EFC;
     color: white;
 }
