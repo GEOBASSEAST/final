@@ -28,6 +28,7 @@
 
             openModal.addEventListener('click', () => {
                 modal.showModal();
+                
 
                 
             })
