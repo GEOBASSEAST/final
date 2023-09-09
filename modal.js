@@ -14,7 +14,7 @@
                 const html = '';
     
                 parsedData.forEach((user) => {
-                    const userHtml = `
+                    let userHtml = `
                     <dialog class="modal">
                         <h4>${user.id}</h4>
                         <h4>${user.title}</h4>

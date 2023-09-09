@@ -95,6 +95,7 @@
     border: 1px solid #CAD2FC;
     font-family: opensans;
     color: #555;
+    resize: none;
 }
 
 .btnn {

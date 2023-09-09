@@ -16,7 +16,7 @@
             const html = '';
 
             parsedData.forEach((user) => {
-                const userHtml = `
+                let userHtml = `
                 <dialog class="modl">
                     <h4>${user.name}</h4>
                     <h5>${user.email}</h5>
